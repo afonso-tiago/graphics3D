@@ -16,5 +16,5 @@ Verwendete Technologien: java, swing
 - Linksklick um die Eigenschaften eines Objektes zu verändern
 
 ## Screenshots
-![screenshot]/misc/screenshot.jpg
-![screenshot2]/misc/screenshot2.jpg
+![screenshot](/misc/screenshot.jpg)
+![screenshot2](/misc/screenshot2.jpg)
