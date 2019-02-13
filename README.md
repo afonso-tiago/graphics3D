@@ -1,6 +1,6 @@
 # graphics3D
 
-Bei diesem Projekt handelt es sich um einen rudimentären 3D Renderer, mit einer GUI um neue Objekte in die Szene einzufügen, zu bearbeiten oder zu löschen. Diesen habe ich gegen Ende der 11. Klasse in meiner Freizeit geschrieben. Zur grafischen Darstellung wurde das GUI-Toolkit Swing verwendet. Alle Algorithmen, um eine dreidimensionale Szene in ein zweidimensionales Bild umzuwandeln, machten lediglich Gebrauch von  trigonometrischen Funktionen (Lineare Algebra lernte ich erst in der 13. Klasse). Die Intension dieses Projektes war, zu lernen wie sich dreidimensionale Objekte in Software umsetzen lassen.
+Bei diesem Projekt handelt es sich um einen rudimentären 3D Renderer, mit einer GUI um neue Objekte in die Szene einzufügen, zu bearbeiten oder zu löschen. Diesen habe ich gegen Ende der 11. Klasse in meiner Freizeit geschrieben. Zur grafischen Darstellung wurde das GUI-Toolkit Swing verwendet. Alle Algorithmen, um eine dreidimensionale Szene in ein zweidimensionales Bild umzuwandeln, machten lediglich Gebrauch von  trigonometrischen Funktionen (Lineare Algebra lernte ich erst in der 13. Klasse). Die Intention hinter diesem Projektes war, zu lernen wie sich dreidimensionale Objekte in Software umsetzen lassen.
 
 Verwendete Technologien: java, swing
 
